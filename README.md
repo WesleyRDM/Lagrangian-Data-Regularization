@@ -1,5 +1,3 @@
-# Lagrangian-Data-Regularization
-Prova de conceito experimental de regularização de dados baseada em Lagrangiana
 # Lagrangian Data Regularization (LDR)
 
 **Projeto experimental de regularização de dados inspirado na mecânica lagrangiana.**  
